@@ -1,9 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+//import Card from './Card';
+import App from './App'
 import reportWebVitals from './reportWebVitals';
+import 'tachyons'
 
+//distroctory with this {} when you have more that one parameter
 ReactDOM.render(
   <React.StrictMode>
     <App />
