@@ -1,3 +1,4 @@
+import React, { Component } from 'react';
 //we need to return one element only 
 const Card = ({name, email, id}) =>{
     //const {name, email, id} = props; //ES6 destructuring
